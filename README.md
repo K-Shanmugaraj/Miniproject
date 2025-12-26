@@ -1,12 +1,12 @@
-#🍽️ FoodBridge – Connecting Surplus Food to NGOs
+# 🍽️ FoodBridge – Connecting Surplus Food to NGOs
 A service-based full-stack web application designed to reduce food wastage by seamlessly connecting surplus food donors with NGOs.
-###📖 About
+### 📖 About
 
 FoodBridge is a service-oriented web application developed to address the growing problem of food wastage while supporting NGOs that work toward feeding underprivileged communities. Traditional food donation methods often rely on manual communication, which can be inefficient and lead to delays, resulting in food spoilage.
 
 This project aims to overcome these challenges by providing a centralized digital platform where donors can easily post surplus food details and NGOs can view, request, and collect food in a timely manner. FoodBridge focuses purely on service-based coordination without any monetary transactions, ensuring simplicity, transparency, and social impact.
 
-###✨ Features
+### ✨ Features
 
 User registration and secure login system
 
@@ -22,7 +22,7 @@ Simple, clean, and user-friendly interface
 
 Scalable full-stack architecture
 
-###⚙️ Requirements
+### ⚙️ Requirements
 Operating System
 
 Windows 10 / 11 or Linux (64-bit)
@@ -55,7 +55,7 @@ Postman (API Testing)
 
 Git & GitHub (Version Control)
 
-###🧱 System Architecture
+### 🧱 System Architecture
 
 The FoodBridge system follows a three-tier architecture:
 
@@ -67,7 +67,7 @@ Database Layer – Stores user and food donation data using MySQL
 
 This architecture ensures modularity, scalability, and easy maintenance.
 
-###🖼️ Output
+### 🖼️ Output
 Output 1 – Home & Login Page
 
 Displays the entry point of the application where users can select their role and securely log in.
@@ -82,13 +82,13 @@ Enables NGOs to view available food donations, request food, and track collectio
 
 (Screenshots can be added here in the GitHub repository)
 
-###📊 Results and Impact
+### 📊 Results and Impact
 
 The FoodBridge system effectively reduces food wastage by improving coordination between donors and NGOs. By digitizing the food donation process, the application ensures timely redistribution of surplus food and promotes social responsibility. The project demonstrates how modern web technologies can be used to solve real-world social problems efficiently.
 
 This system serves as a strong foundation for future enhancements such as mobile applications, notification systems, and location-based services, enabling wider adoption and greater social impact.
 
-###🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 Mobile application support
 
@@ -100,7 +100,7 @@ Donation analytics and reports
 
 Multi-city deployment
 
-###📚 Articles / References
+### 📚 Articles / References
 
 Ian Sommerville, Software Engineering, Pearson Education
 
@@ -112,7 +112,7 @@ REST API Best Practices – https://restfulapi.net/
 
 MySQL Documentation – https://dev.mysql.com/doc/
 
-###👨‍💻 Developer
+### 👨‍💻 Developer
 
 Shanmugaraj.K
 Full Stack Developer
