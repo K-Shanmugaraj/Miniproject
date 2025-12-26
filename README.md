@@ -25,45 +25,45 @@ Scalable full-stack architecture
 ### ⚙️ Requirements
 Operating System
 
-Windows 10 / 11 or Linux (64-bit)
+* Windows 10 / 11 or Linux (64-bit)
 
 Frontend
 
-React.js
+* React.js
 
-HTML, CSS, JavaScript
+* HTML, CSS, JavaScript
 
 Backend
 
-Java
+* Java
 
-Spring Boot
+* Spring Boot
 
-RESTful APIs
+* RESTful APIs
 
 Database
 
-MySQL
+* MySQL
 
 Development Tools
 
-Visual Studio Code
+* Visual Studio Code
 
-IntelliJ IDEA
+* IntelliJ IDEA
 
-Postman (API Testing)
+* Postman (API Testing)
 
-Git & GitHub (Version Control)
+* Git & GitHub (Version Control)
 
 ### 🧱 System Architecture
 
 The FoodBridge system follows a three-tier architecture:
 
-Frontend Layer – Handles user interaction using React.js
+* Frontend Layer – Handles user interaction using React.js
 
-Backend Layer – Processes business logic using Spring Boot REST APIs
+* Backend Layer – Processes business logic using Spring Boot REST APIs
 
-Database Layer – Stores user and food donation data using MySQL
+* Database Layer – Stores user and food donation data using MySQL
 
 This architecture ensures modularity, scalability, and easy maintenance.
 
